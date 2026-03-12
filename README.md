@@ -120,6 +120,20 @@ Internal channels are created by CNC'ing pockets into both faces. When the sheet
 <!-- PMD2 wiring on the rear side -->
 ![PMD2 Wiring](photos/pmd2-wiring.jpeg)
 
+## Gallery
+
+![Completed Build](photos/completed-build2.jpeg)
+
+![Front Side](photos/front-side2.jpeg)
+
+![Rear Side](photos/rear-side2.jpeg)
+
+![Distro Plate Front](photos/distro-plate-front2.jpeg)
+
+
+<!-- Add more full build photos here -->
+<!-- ![Photo Description](photos/your-photo.jpeg) -->
+
 ## Inspiration
 
 - [Singularity Computers](https://www.youtube.com/@SingularityComputers): The channel that started it all
